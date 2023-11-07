@@ -16,8 +16,8 @@ require(DOSE)
 library(stringr)
 
 #Load Data
-cac.data <- Read10X(data.dir = "D:/snRNA-Seq/snRNA_01/LLC/cac_filtered_feature_bc_matrix")
-control.data <- Read10X(data.dir = "D:/snRNA-Seq/snRNA_01/Control/con_filtered_feature_bc_matrix")
+cac.data <- Read10X(data.dir = "PATH/cac_filtered_feature_bc_matrix")
+control.data <- Read10X(data.dir = "PATH/con_filtered_feature_bc_matrix")
 
 #Create Seurat Object
 Control <- CreateSeuratObject(control.data, project = "Control")
