@@ -1,6 +1,8 @@
 # snRNASeq-Data Analysis
 Data of snRNA-Seq analysis related with the paper "Tumor-induced alterations in single-nucleus transcriptome of atrophying muscles indicate enhanced protein degradation and reduced oxidative metabolism"
 
+![](https://github.com/agcasamet/snRNASeq-Data/blob/main/UMAP.png)
+
 # Summary
 Single-nucleus RNA-sequencing of cachectic muscles from tumor-bearing mice.
 We report that remote tumor growth in mice impacted the transcriptome of muscle tissue, which exhibited the enrichment of type IIb myonuclear gene signatures, the activation of muscle atrophy-related mechanisms, including EDA2R, and the suppression of pathways associated with muscle contractility and oxidative metabolism. 
